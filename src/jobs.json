@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "4405",
-      "title": "UX/UI Engineer",
-      "type": "Full-Time",
-      "location": "Miami",
-      "description": "Doing some cool stuff",
-      "salary": "$175K - 200K",
-      "company": {
-        "name": "Lawson Corp",
-        "description": "Amazing company to work at",
-        "contactEmail": "test@test.com",
-        "contactPhone": "111-111-1111"
-      }
     }
   ]
 }
